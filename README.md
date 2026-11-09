@@ -7,7 +7,6 @@ A desktop landing page design for **Amorette**, a fictional high-end diamond jew
 > Status: work in progress. Header, hero, brand introduction and collections sections are complete. Feature cards ("Why Amorette") and the footer are being added.
 
 ## Preview
-Add exported screenshots in the `screenshots/` folder:
 
 ![Landing page preview](amorette-desktop.png)
 
