@@ -2,7 +2,7 @@
 
 A desktop landing page design for **Amorette**, a fictional high-end diamond jewellery brand. Created in Figma as part of the UI/UX using Figma task (IPS).
 
-**Figma file:** https://www.figma.com/design/gdAunF6NmNkLJC8antxCbe/Amorette-Landing-Page
+**Figma file:** https://www.figma.com/design/gdAunF6NmNkLJC8antxCbe/Amorette-Landing-Page?node-id=0-1&t=cRASkGaLRakSgt5c-1
 
 > Status: work in progress. Header, hero, brand introduction and collections sections are complete. Feature cards ("Why Amorette") and the footer are being added.
 
@@ -55,7 +55,7 @@ Add exported screenshots in the `screenshots/` folder:
 **Reusable components:**
 - Button (primary CTA)
 - Collection Card
-- Feature Card (in progress)
+- Feature Card
 
 ## Tools
 
@@ -64,5 +64,7 @@ Add exported screenshots in the `screenshots/` folder:
 - Images: free stock photos (Unsplash / Pexels)
 
 ## Author
+
+Designed by Priya Choudhary
 
 Individual submission for UI/UX using Figma.
