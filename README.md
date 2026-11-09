@@ -1,14 +1,12 @@
 # Amorette: Landing Page Design (Figma)
 
-A desktop landing page design for **Amorette**, a fictional high-end diamond jewellery brand. Created in Figma as part of the UI/UX using Figma task.
+A desktop landing page design for **Amorette**, a fictional high-end diamond jewellery brand. Created in Figma as part of the UI/UX using Figma task (IPS).
 
-**Figma file:** https://www.figma.com/design/gdAunF6NmNkLJC8antxCbe/Amorette-Landing-Page?node-id=0-1&t=cRASkGaLRakSgt5c-1
+## 🔗 Figma Design
 
-> Status: work in progress. Header, hero, brand introduction and collections sections are complete. Feature cards ("Why Amorette") and the footer are being added.
+Explore the UI/UX design and visual direction:
 
-## Preview
-
-![Landing page preview](amorette-desktop.png)
+[View Amorette on Figma →](https://www.figma.com/design/gdAunF6NmNkLJC8antxCbe/Amorette-Landing-Page)
 
 ## Brand
 
@@ -40,9 +38,9 @@ A desktop landing page design for **Amorette**, a fictional high-end diamond jew
 1. Header: logo, navigation (Home, Collections, Rings, Necklaces, Our Story) and "Explore Collection" CTA
 2. Hero: headline, short description, CTA button and campaign image
 3. Brand introduction: "Our philosophy"
-4. Shop by collection: Necklace, Rings, Bracelets, Earrings
-5. Why Amorette (feature cards): in progress
-6. Footer: in progress
+4. Shop by collection: Rings, Necklaces, Earrings, Bracelets
+5. Why Amorette: feature cards (Certified Diamonds, Quality Craftsmanship, Secure Packaging, Easy & Secure Shopping)
+6. Footer: logo, links and contact details
 
 ## Design system
 
@@ -62,7 +60,5 @@ A desktop landing page design for **Amorette**, a fictional high-end diamond jew
 - Images: free stock photos (Unsplash / Pexels)
 
 ## Author
-
-Designed by Priya Choudhary
 
 Individual submission for UI/UX using Figma.
